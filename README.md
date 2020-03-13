@@ -29,7 +29,7 @@ Instead you could have...
 <div 
     class="text-center flex flex-row text-sm ml-4 mt-2"
     md:class="flex-col flex-wrap ml-2"
-    lg:class="lg:text-right mt-8"
+    lg:class="text-right mt-8"
     xl:class="text-lg">
 ```
 
